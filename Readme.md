@@ -15,13 +15,13 @@
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
-<h3 align="center">Project 04</h3>
+<h3 align="center">Project 08</h3>
 
   <p align="center">
-    Digital Marketing Landing Page
+    Web Designing Landing Page
     <br />
     <br />
-    <a href="https://ineuron-digital.netlify.app/">View Demo</a>
+    <a href="https://ineuron-web.netlify.app/">View Demo</a>
     ·
     <a href="https://prahladinala.in/contact">Contact</a>
   </p>
@@ -76,7 +76,7 @@ This project is presently deployed in **Netlify Service**
 
 [![Netlify][netlify-shield]][project-url]
 
-[Live Project URL](https://ineuron-digital.netlify.app/)
+[Live Project URL](https://ineuron-web.netlify.app/)
 
 <!-- LEARNT -->
 
@@ -122,7 +122,7 @@ For this project i took around `5 to 6 hours` to complete it. The major portion 
 
 Project Link: [https://github.com/prahladinala/Live-Project-8-Web-Design-Landing-Page](https://github.com/prahladinala/Live-Project-8-Web-Design-Landing-Page)
 
-Live Project URL: [https://ineuron-digital.netlify.app/](https://ineuron-digital.netlify.app/)
+Live Project URL: [https://ineuron-web.netlify.app/](https://ineuron-web.netlify.app/)
 
 <!-- BACK TO TOP -->
 
@@ -175,4 +175,4 @@ Live Project URL: [https://ineuron-digital.netlify.app/](https://ineuron-digital
 <!-- Project screenshot -->
 
 [product-screenshot]: /readme_assets/project01.jpg
-[project-url]: https://ineuron-digital.netlify.app/
+[project-url]: https://ineuron-web.netlify.app/
